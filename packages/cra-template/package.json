@@ -1,0 +1,9 @@
+{
+  "name": "cra-template",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "彭格列 <1801688332@qq.com>",
+  "homepage": "https://github.com/pgl-g/mini-react#readme",
+  "license": "MIT",
+  "main": "index.js"
+}
